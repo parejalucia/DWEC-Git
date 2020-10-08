@@ -1,5 +1,3 @@
 <?php
 //mi index.php
-
-
 ?>
