@@ -1,0 +1,5 @@
+<?php
+//mi index.php
+
+
+?>
